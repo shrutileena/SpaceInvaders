@@ -1,2 +1,3 @@
 # SpaceInvaders
-Space Invaders python game
+
+Simple Python game
